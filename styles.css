@@ -1,0 +1,13 @@
+.header1{
+    color: red;
+}
+.links{
+    color: green;
+}
+body{
+    background-color: lightskyblue;
+    text-align: center;
+}
+ul {
+    list-style: inside;
+}
